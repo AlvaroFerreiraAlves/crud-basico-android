@@ -4,3 +4,5 @@ Trabalho desenvolvido para conclusão do curso de programação de Computadores 
 
 - Sistema cadastral de pessoa física.
 
+Para utilizar a aplicação basta fazer o download do apk em <a href="crud-basico-android/app/src/main/java/app.apk">crud-basico-android/app/src/main/java/app.apk</a> e instala-lo no dispositivo.
+
